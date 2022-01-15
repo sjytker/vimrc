@@ -228,3 +228,5 @@ elseif &filetype == 'matlab'
     exec "!time octave %"
 endif
 endfunc
+
+map <leader>tn :tabnew<cr>
