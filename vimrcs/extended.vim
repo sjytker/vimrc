@@ -255,4 +255,5 @@ map <leader>18 18gt
 map <leader>19 19gt
 map <leader>20 20gt
 
+map <leader>q :q<cr>
 set number
